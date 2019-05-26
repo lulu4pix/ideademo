@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yyparent" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="yyparent" target="1.5" />
+      <module name="zzdao" target="1.7" />
+      <module name="zzdomain" target="1.5" />
+      <module name="zzparent" target="1.5" />
+      <module name="zzweb" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
